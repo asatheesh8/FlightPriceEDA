@@ -8,3 +8,5 @@ In this project, we perform:
 * General dataset information/statistics.
 * Converting date string to datetime variables.
 * Splitting Date and Time to Date, Month, Year, Hour and Minute for efficient Machine Learning.
+
+The Dataset is now ready to be split and scaled for Model Training.
